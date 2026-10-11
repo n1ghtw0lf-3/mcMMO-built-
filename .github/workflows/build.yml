@@ -1,4 +1,3 @@
-```yaml
 name: Build mcMMO
 
 on:
@@ -32,4 +31,3 @@ jobs:
           name: mcMMO-jar
           path: target/*.jar
           if-no-files-found: error
-```
